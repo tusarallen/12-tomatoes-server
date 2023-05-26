@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "chefPicture": "https://i.ibb.co/F5PcC4r/male-3.jpg",
+    "chefName": "Molla Nasiruddin",
+    "chef_description": "Chef Molla Nasiruddin is a renowned Bangladeshi chef who specializes in traditional Bengali cuisine. She has won several awards for her cooking and has written several cookbooks that are widely popular in Bangladesh and around the world.",
+    "yearsOfExperience": 10,
+    "numOfRecipes": 50,
+    "likes": 1000,
+    "recipe_id": 1001
+  },
+  {
+    "id": 2,
+    "chefPicture": "https://i.ibb.co/VBY9TQQ/female-3.jpg",
+    "chefName": "Rownak Jahan",
+    "chef_description": "Chef Rownak Jahan is a Bangladeshi chef who is known for his fusion cooking. He blends traditional Bengali flavors with international cuisine to create unique and delicious dishes that are loved by foodies all over the world.",
+    "yearsOfExperience": 8,
+    "numOfRecipes": 70,
+    "likes": 1500,
+    "recipe_id": 1002
+  },
+  {
+    "id": 3,
+    "chefPicture": "https://i.ibb.co/k8gLBxf/male-2.jpg",
+    "chefName": "Tommy Miah",
+    "chef_description": "Chef Tommy Miah is a Bangladeshi chef who is famous for his seafood dishes. He sources the freshest seafood from the Bay of Bengal and uses traditional Bengali spices and herbs to create dishes that are both flavorful and healthy.",
+    "yearsOfExperience": 12,
+    "numOfRecipes": 80,
+    "likes": 2000,
+    "recipe_id": 1003
+  },
+  {
+    "id": 4,
+    "chefPicture": "https://i.ibb.co/NWpk7cQ/female-2.jpg",
+    "chefName": "Siddika Kabir",
+    "chef_description": "Chef Siddika Kabir is a Bangladeshi chef who specializes in vegetarian and vegan cuisine. He uses fresh, locally sourced produce to create dishes that are not only delicious but also good for you.",
+    "yearsOfExperience": 6,
+    "numOfRecipes": 40,
+    "likes": 800,
+    "recipe_id": 1004
+  },
+  {
+    "id": 5,
+    "chefPicture": "https://i.ibb.co/WKm4pzc/males-3.jpg",
+    "chefName": "Mafizuddin Sarker",
+    "chef_description": "Chef Mafizuddin Sarker is a Bangladeshi chef who is an expert in barbecue and grilling. He uses traditional Bengali spices and techniques to create mouth-watering dishes that are perfect for any occasion.",
+    "yearsOfExperience": 15,
+    "numOfRecipes": 90,
+    "likes": 2500,
+    "recipe_id": 1005
+  },
+  {
+    "id": 6,
+    "chefPicture": "https://i.ibb.co/pj4F0Wy/mealpro-9-IQ1p-Th06y-A-unsplash.jpg",
+    "chefName": "Nayana Afroz",
+    "chef_description": "Chef Nayana Afroz is a Bangladeshi chef who is known for her desserts and sweets. She uses traditional Bengali ingredients like jaggery and coconut milk to create unique and delicious treats that are loved by people all over the world.",
+    "yearsOfExperience": 7,
+    "numOfRecipes": 60,
+    "likes": 1200,
+    "recipe_id": 1006
+  }
+]
